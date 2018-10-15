@@ -12,7 +12,7 @@ Example projects we want to address include (but are not limited to):
 #### Desired background
 
 + Scientific computing, particularly the use of C/C++ and Python. 
-+ Experience in graphics development (or a desire to learn it). Examples of relevant software would include Vulcan, WebGL, or Unity.
++ Experience in graphics development (or a desire to learn it). Examples of relevant software would include Vulkan, WebGL, or Unity.
 + Experience in computational linear algebra.
 + An interest in "problem solving" both independently and collaboratively.
 

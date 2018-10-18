@@ -1,4 +1,4 @@
-<img src="NIMH_logo.png" width="250"> 
+<img src="NIMH_logo.png" width="250">  <img src="AFNI_logo.png" width="80"> 
 
 ## AFNI Postdoc Position
 See also: 

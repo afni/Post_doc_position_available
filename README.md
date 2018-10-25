@@ -1,6 +1,6 @@
 <img src="NIMH_logo.png" width="250">  <img src="AFNI_logo.png" width="80"> 
 
-## AFNI Postdoc Position
+## AFNI Staff-Scientist Position
 See also: 
 * [Data Scientist Position in the Data Science and Sharing Team](https://github.com/nih-fmrif/dataSci_job_ad)
 * [Data Scientist Position in the Sections on Neural Function and Fundamental Neuroscience](https://github.com/nih-fmrif/mcrscpy_dataSci_job)
@@ -13,9 +13,7 @@ We, the [AFNI team](https://afni.nimh.nih.gov), are looking for a technically-mi
 Example projects we want to address include (but are not limited to):
 
 + Extending AFNI's visualization interfaces to web-capable graphics technologies.
-+ Better methods for detection of image changes between groups of subjects (including integrating single subject and group analyses into one processing step).
-+ Work with local experts in applying machine learning to neuroimaging to develop better methods for denoising FMRI datasets.
-+ Develop methods for testing a single subject’s FMRI data vs. a “fiducial” group, to find outlier results.
++ Lead the development of SUMA.
 
 #### Desired background
 

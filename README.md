@@ -13,13 +13,15 @@ The SSCC develops and maintains [AFNI](https://afni.nimh.nih.gov), one of the mo
 
 #### What you will be doing
 
-Example projects we want to address include (but are not limited to):
+Example projects include (but are not limited to):
 
 + Extending AFNI's visualization interfaces to web-capable graphics technologies.
 + Lead the development of [SUMA](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/SUMA/cover.html), our surface-based analysis and rendering tool.
 + Work interactively with SSCC members on ongoing projects, and develop one's own research line (e.g., pipeline development, visualization, new methodologies, etc.).
 
 #### Desired background
+
+The ideal applicant would have one or more of the following properties:
 
 + Scientific computing, particularly the use of C/C++ and Python. 
 + Experience in graphics development (or a desire to learn it). Examples of relevant software would include Vulkan, WebGL, or Unity.
@@ -32,8 +34,8 @@ More information on NIMH fellowship programs can be found at the [NIMH website](
 
 
 #### Who we are
-Our Core is mainly comprised of people with backgrounds in the fields of math, physics, engineering, statistics, computer science, and neuroscience.  We develop open source, publicly available tools for the neuroimaging community.  
-We routinely hold workshops in MRI analysis methods (mainly FMRI and DTI).  
+Our Core is mainly comprised of people with backgrounds in the fields of math, physics, engineering, statistics, computer science, and neuroscience.  
+We develop open source, publicly available tools for the neuroimaging community, and we routinely run hands-on training workshops in MRI analysis methods (mainly FMRI and DTI).  
 In all cases, work is done in collaboration with NIH researchers to ensure that the resulting methods and software are useful and usable.  
 
 We are located at the National Institutes of Health in Bethesda, MD, USA, in the ever-interesting Washington, DC, metropolitan area.

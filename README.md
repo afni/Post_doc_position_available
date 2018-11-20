@@ -9,7 +9,7 @@ The National Institute of Mental Health (NIMH) is the largest funder of research
 
 The SSCC develops and maintains [AFNI](https://afni.nimh.nih.gov), one of the most widely used brain imaging packages used in MRI analysis across the world.  We also collaborate directly with groups at NIH and around the globe on neuroimaging projects, and teach several week-long training courses in brain imaging methods (colloquially referred to as "Bootcamps") around the globe.  
 
-We are looking for a technically-minded and motivated person to work on scientific/statistical computing applied to brain imaging. 
+<b>We are looking for a technically-minded and motivated person to work on scientific/statistical computing applied to brain imaging.</b>
 
 #### What you will be doing
 
@@ -40,6 +40,6 @@ We are located at the National Institutes of Health in Bethesda, MD, USA, in the
 
 
 #### Interested?
-Please send: any queries and/or a cover letter of interest (including descriptions of your programming experience, projects worked on, teaching, etc.) and a copy of your CV to:  paul.taylor@nih.gov.
+<b>Please send:</b> any queries and/or a cover letter of interest (including descriptions of your programming experience, projects worked on, teaching, etc.) and a copy of your CV to:  paul.taylor@nih.gov.
 
 Contacts:  Drs. Robert Cox (Core leader) and Paul Taylor 

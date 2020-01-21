@@ -3,7 +3,7 @@
 ## Research Staff Position in the Scientific and Statistical Computing Core (SSCC, NIMH, NIH, USA)
 See also: 
 * [Data Scientist Position in the Data Science and Sharing Team](https://github.com/nih-fmrif/dataSci_job_ad)
-* [Data Scientist Position in the Sections on Neural Function and Fundamental Neuroscience](https://github.com/nih-fmrif/mcrscpy_dataSci_job)
+
 
 <b>We are looking for a technically-minded and motivated person to work on scientific/statistical computing applied to brain imaging.</b>
 

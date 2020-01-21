@@ -7,9 +7,9 @@ See also:
 
 <b>We are looking for a technically-minded and motivated person to work on scientific/statistical computing applied to brain imaging.</b>
 
-The National Institute of Mental Health (NIMH) is the largest funder of research on mental disorders in the world, with a current budget of over $1.4B. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at glassdoor.com with very competitive salary and benefits packages.
-
 The SSCC develops and maintains [AFNI](https://afni.nimh.nih.gov), one of the most widely used brain imaging packages in MRI analysis across the world.  We collaborate directly with groups at NIH and around the globe on neuroimaging projects, and also teach several week-long training courses in brain imaging methods (colloquially referred to as "Bootcamps") around the globe.  
+
+The National Institute of Mental Health (NIMH) is the largest funder of research on mental disorders in the world, with a current budget of over $1.4B. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at glassdoor.com with very competitive salary and benefits packages.
 
 
 #### What you will be doing
@@ -20,6 +20,7 @@ Example projects include (but are not limited to):
 + Lead the development of [SUMA](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/SUMA/cover.html), our surface-based analysis and rendering tool.
 + Work interactively with SSCC members on ongoing projects, and develop one's own research line (e.g., pipeline development, visualization, new methodologies, etc.).
 
+
 #### Desired background
 
 The ideal applicant would have one or more of the following properties:
@@ -29,7 +30,8 @@ The ideal applicant would have one or more of the following properties:
 + Experience in computational linear algebra.
 + An interest in "problem solving" both independently and collaboratively.
 
-This is government contractor position.
+This is government contractor position.  Salary scale is on a general staff level and depends on applicant's years of experience.
+
 We are looking for someone to start as soon as practicable, but the timing is flexible.
 
 
